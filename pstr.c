@@ -4,7 +4,7 @@
  * followed by a new
  * @head: stack head
  * @counter: line_number
- * Return: no return
+ * Return: no return.
 */
 void f_pstr(stack_t **head, unsigned int counter)
 {
